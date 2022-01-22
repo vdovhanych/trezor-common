@@ -7,3 +7,7 @@ We also export this project to the [trezor-common repository](https://github.com
 ```
 git submodule add https://github.com/trezor/trezor-common.git trezor-common
 ```
+
+TESTING THE SYNC WORKFLOW
+Test2
+test3
